@@ -1,7 +1,7 @@
 # GRC Portfolio — Bhuvaneshwari Kundla
 
 **MSc Cybersecurity | Dublin Business School | GRC Analyst**  
-📍 Dublin, Ireland &nbsp;|&nbsp; [LinkedIn] (www.linkedin.com/in/bhuvaneshwari-kundla-15bb86284)
+📍 Dublin, Ireland &nbsp;|&nbsp; (www.linkedin.com/in/bhuvaneshwari-kundla-15bb86284)
 
 This repository contains a structured GRC portfolio built to demonstrate practical, hands-on knowledge of the four frameworks most relevant to the Irish and EU regulatory market — ISO 27001:2022, GDPR, NIS2, and DORA.
 
