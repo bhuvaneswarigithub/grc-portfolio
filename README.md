@@ -11,7 +11,7 @@ Each project produces real, employer-facing deliverables: documents and spreadsh
 
 ## Projects
 
-### ✅ Project 1 — Multi-Framework Controls Mapping
+###  Project 1 — Multi-Framework Controls Mapping
 
 Maps 10 core information security control domains across ISO 27001:2022, GDPR, NIS2, and DORA. Identifies overlapping requirements, framework-unique obligations, and provides a practical recommendation for how an Irish organisation can implement once and satisfy all four frameworks simultaneously.
 
@@ -25,7 +25,7 @@ Maps 10 core information security control domains across ISO 27001:2022, GDPR, N
 
 ---
 
-### ✅ Project 2 — ISO 27001 ISMS Documentation Pack
+###  Project 2 — ISO 27001 ISMS Documentation Pack
 
 Full ISMS documentation set for TechBridge Solutions Ltd — a fictional 100-person Irish cybersecurity consultancy serving government and public sector clients. Demonstrates end-to-end ISO 27001 implementation capability from asset identification through to audit readiness.
 
@@ -42,9 +42,7 @@ Full ISMS documentation set for TechBridge Solutions Ltd — a fictional 100-per
 **Frameworks:** ISO 27001:2022 · GDPR · NIS2 · DORA  
 **Key skills demonstrated:** Asset classification · Risk assessment · SoA authoring · Policy writing · Audit preparation
 
-### 🔄 Project 3 — NIS2 Gap Assessment 
-
-## Project 3: NIS2 Gap Assessment — HealthNet Ireland (Fictional)
+###  Project 3 — NIS2 Gap Assessment - HealthNet Ireland (Fictional)
 
 **A full NIS2 compliance assessment for a fictional Irish healthtech company, from legal requirements through to a board-ready action plan.**
 
