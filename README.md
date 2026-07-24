@@ -44,7 +44,7 @@ Full ISMS documentation set for TechBridge Solutions Ltd — a fictional 100-per
 
 ### 🔄 Project 3 — NIS2 Gap Assessment 
 
-## Project 5: NIS2 Gap Assessment — HealthNet Ireland (Fictional)
+## Project 3: NIS2 Gap Assessment — HealthNet Ireland (Fictional)
 
 **A full NIS2 compliance assessment for a fictional Irish healthtech company, from legal requirements through to a board-ready action plan.**
 
