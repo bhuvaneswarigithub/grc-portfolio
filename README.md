@@ -42,14 +42,45 @@ Full ISMS documentation set for TechBridge Solutions Ltd — a fictional 100-per
 **Frameworks:** ISO 27001:2022 · GDPR · NIS2 · DORA  
 **Key skills demonstrated:** Asset classification · Risk assessment · SoA authoring · Policy writing · Audit preparation
 
-### 🔄 Project 3 — NIS2 Gap Assessment *(in progress)*
+### 🔄 Project 3 — NIS2 Gap Assessment 
 
-Gap assessment and remediation roadmap for HealthNet Ireland — a fictional Irish healthcare technology company — against all 10 NIS2 Article 21 mandatory security measures. Includes maturity scoring, prioritised remediation roadmap, and board-level briefing document.
+## Project 5: NIS2 Gap Assessment — HealthNet Ireland (Fictional)
 
-**Frameworks:** NIS2 · ISO 27001:2022  
-**Key skills demonstrated:** Gap analysis · Maturity modelling · Remediation planning · Board communication
+**A full NIS2 compliance assessment for a fictional Irish healthtech company, from legal requirements through to a board-ready action plan.**
 
-### 🔄 Project 4 — Vendor / Third-Party Risk Assessment *(coming soon)*
+### Scenario
+HealthNet Ireland Ltd is a fictional Dublin-based healthcare technology company (200 staff, ~€30M turnover) whose cloud platform manages patient records and e-referrals for hospitals and GP clinics. As an ICT service provider to the health sector, HealthNet falls under the EU's NIS2 Directive — classified as a medium-sized **Important Entity**, with a deliberately weak security posture used to generate realistic, defensible findings.
+
+### What's inside
+
+| # | Deliverable | Description |
+|---|---|---|
+| 1 | About & Scope | Company profile, sector classification, and regulatory context (Important vs. Essential entity, Irish transposition status) |
+| 2 | NIS2 Requirements Breakdown | All 10 Article 21(2) measures decomposed into requirement, evidence, and deadline |
+| 3 | Current State Assessment | 51 requirements rated on a 1–5 maturity scale, with rationale for every score |
+| 4 | Gap Analysis Document | 48 gaps (below Level 3) with target state, risk if unaddressed, and legal/audit-based priority rating |
+| 5 | Remediation Roadmap | All 48 gaps sequenced into 3 phases (0–3 / 3–6 / 6–12 months) with effort and named owner |
+| 6 | Board Briefing Document | 1-page, jargon-free executive summary — the flagship deliverable |
+
+### Key findings
+- Overall maturity: **1.53 / 5** — mostly "Non-existent" or "Ad hoc"
+- 3 domains scored a flat 1.0: Effectiveness Assessment, Incident Reporting, Registration & Regulator Engagement
+- **16 High / 25 Medium / 7 Low** priority gaps identified, triaged by legal penalty risk and audit-finding likelihood rather than general severity
+- Single largest structural finding: one role (IT Manager) owns **42%** of all remediation actions — a direct, data-backed case for a dedicated GRC function
+
+### Skills demonstrated
+- Regulatory interpretation (NIS2 Directive, Irish National Cyber Security Bill, NCSC guidance)
+- Maturity modelling (CMMI-style 1–5 scale) as distinct from binary compliance checklisting
+- Risk-based prioritisation (legal/audit exposure vs. general operational risk)
+- Remediation planning, sequencing, and resourcing/capacity analysis
+- Executive communication — compressing a full technical assessment into a 1-page board briefing
+
+### Tools
+Excel (openpyxl) for the requirements breakdown, current-state assessment, gap analysis, and roadmap · Word (python-docx) for the board briefing · Frameworks referenced: NIS2 (EU 2022/2555), ISO 27001:2022, GDPR
+
+*Files: `/project-5-nis2-healthnet/`*
+
+### 🔄 Project 4 — Vendor / Third-Party Risk Assessment *(in progress)*
 
 Third-party risk assessment framework including vendor tiering model, 30-question security questionnaire, risk scoring matrix, and findings report — aligned to ISO 27001 Annex A.5.19–5.22 and DORA Articles 28–30.
 
