@@ -76,7 +76,7 @@ HealthNet Ireland Ltd is a fictional Dublin-based healthcare technology company 
 ### Tools
 Excel (openpyxl) for the requirements breakdown, current-state assessment, gap analysis, and roadmap · Word (python-docx) for the board briefing · Frameworks referenced: NIS2 (EU 2022/2555), ISO 27001:2022, GDPR
 
-*Files: `/project-5-nis2-healthnet/`*
+*Files: `/project-3-nis2-healthnet/`*
 
 ### 🔄 Project 4 — Vendor / Third-Party Risk Assessment *(in progress)*
 
@@ -112,10 +112,10 @@ Every project is scoped to reflect the current Irish and EU regulatory environme
 
 | Project | Status | Completed |
 |---|---|---|
-| Project 7 — Controls Mapping | ✅ Complete | June 2026 |
-| Project 1 — ISMS Documentation | ✅ Complete | July 2026 |
-| Project 5 — NIS2 Gap Assessment | 🔄 In Progress | August 2026 |
-| Project 2 — Vendor Risk Assessment | ⏳ Upcoming | August 2026 |
-| Project 3 — IR Tabletop Exercise | ⏳ Upcoming | September 2026 |
+| Project 1 — Controls Mapping | Complete | June 2026 |
+| Project 2 — ISMS Documentation | Complete | July 2026 |
+| Project 3 — NIS2 Gap Assessment | Complete| July 2026 |
+| Project 4 — Vendor Risk Assessment | In Progress | August 2026 |
+| Project 5 — IR Tabletop Exercise | ⏳ Upcoming | September 2026 |
 
 *Portfolio actively being built — last updated July 2026.*
